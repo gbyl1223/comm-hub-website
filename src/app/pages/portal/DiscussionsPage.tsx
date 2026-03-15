@@ -13,3 +13,11 @@ import {
   TrendingUp,
   ChevronRight,
 } from "lucide-react";
+
+export function DiscussionsPage() {
+  return (
+    <div>
+      Discussions Page
+    </div>
+  );
+}
